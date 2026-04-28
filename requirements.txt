@@ -1,0 +1,28 @@
+# Applying Optimal Control In MuJoCo - Requirements
+# Python 3.8+ required
+
+# Core numerical computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization and plotting
+matplotlib>=3.7.0
+
+# Physics simulation engine
+mujoco>=3.0.0
+
+# Reinforcement learning environment API
+gymnasium>=0.29.0
+
+# Quadratic programming solver (for MPC controller)
+osqp>=0.6.3
+
+# Web communication (for web interface)
+websockets>=12.0
+
+# Optional: Custom quadruped environment (if available separately)
+# gym-quadruped
+
+# Development dependencies (optional, for testing)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
