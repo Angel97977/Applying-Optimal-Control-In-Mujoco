@@ -35,7 +35,6 @@ env/
 .DS_Store
 
 # Project specific
-results/
 *.log
 *.mp4
 .mujoco/
